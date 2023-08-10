@@ -1,0 +1,4 @@
+arun,21,kochi
+vivek,23,kakkanad
+mega,21,calicut
+nived,20,trissur
